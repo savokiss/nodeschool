@@ -1,2 +1,2 @@
 # nodeschool
-nodeschool.io exercise code 
+workshop code from https://nodeschool.io/
